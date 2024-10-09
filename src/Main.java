@@ -8,7 +8,7 @@ public class Main {
         int i = nhap.nextInt();
         Scanner nhap2 = new Scanner(System.in);
         System.out.print("Nhap so vao day: ");
-        int y = nhap.nextInt();
+        int y = nhap2.nextInt();
         System.out.printf("Giá trị : %d, %d",i,y);
 
     }
